@@ -13,4 +13,4 @@ The modules which will contain solutions are summarised as such:
 - [Module 5: Software Craft](./Module5)
 - [Module 6: Microservices and APIs](./Module6) 
 ## About Me
-I am 27 trynig to make me God is with me Save this date 30/03/2022, whithin few uears I expext to became Millionare 
+I am 27 trynig to make it, God is with me Save this date 30/03/2022, whithin few uears I expext to became Millionare 
